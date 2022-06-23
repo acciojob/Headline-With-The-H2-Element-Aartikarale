@@ -1,10 +1,6 @@
-
-<html>
-  <head>
-  </head>
-  <body>
-       "testRepo": "Headline-With-The-H2-Element-Solution",
+{
+  "testRepo": "Headline-With-The-H2-Element-Solution",
        "pathToFile": "cypress/integration/tests/test.spec.js"
         <h2>Acciojob</h2>
- </body>
-</html>
+}
+ 
